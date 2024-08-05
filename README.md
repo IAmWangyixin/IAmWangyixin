@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats-one-mu-82.vercel.app/api?username=i5ting&show_icons=true&hide_title=true&theme=merko#gh-dark-mode-only" />
 
-你好~ 我是 王义欣 (网名i5ting)，生活在上海，目前正在从事富文本编辑器相关的工作，是 Lexical 的贡献者。
+你好~ 我是王义欣，生活在上海，目前正在从事富文本编辑器相关的工作，是 Lexical 的贡献者。
  
 <!--
 **IAmWangyixin/IAmWangyixin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
